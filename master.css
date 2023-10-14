@@ -1637,7 +1637,7 @@ label {
 }
 
 .SpecialHeading .special-subtitle {
-	margin-top: 20px
+	margin-top: 20px;
 }
 
 .special-subtitle {
@@ -1647,7 +1647,7 @@ label {
 	font-weight: 700;
 	text-transform: uppercase;
 	border-bottom: 3px dotted #008a6f;
-	letter-spacing: 4px
+	letter-spacing: 4px;
 }
 
 .special-subtitle-type-2 {
@@ -1767,6 +1767,9 @@ label {
 	transform: rotateY(90deg)
 }
 
+#shortstory.has-edge:after {
+	width: 85px;
+}
 .widget {
 	position: relative;
 	font-size: 15px;
