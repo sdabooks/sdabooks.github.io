@@ -1599,10 +1599,10 @@ label {
 }
 
 .SpecialHeading .special-heading-letter:first-letter {
-	margin-right: -30px;
+	margin-right: -10px;
 	font-size: 1.9em;
 	color: #008a6f;
-	padding: 0 20px
+	padding: 0 5px
 }
 
 .SpecialHeading h1.special-title {
